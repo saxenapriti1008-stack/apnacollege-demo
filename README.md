@@ -1,2 +1,2 @@
 # apnacollege-demo
-This is my third repository.
+This is my third Git repository.
